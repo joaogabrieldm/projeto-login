@@ -62,6 +62,7 @@ form > div > h1 {
 
 form > div > p {
     text-align: center;
+    margin: 15px 0px;
 }
 
 form > div.campo {
@@ -122,8 +123,8 @@ div > a:hover {
     color: white;
 }
 
-div > a > span {
+div span#mail {
     display: inline-block;
-    font-size: 0.5em;
-    transform: translateY(6px);
+    font-size: 1.5em;
+    transform: translateY(7px);
 }
